@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:paddingStart="@dimen/recycler_nearby_rests_vertical_padding"
+    android:paddingEnd="@dimen/recycler_nearby_rests_vertical_padding" >
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="@dimen/footer_nearby_desc_top_margin"
+        android:fontFamily="sans-serif"
+        android:letterSpacing="0.03"
+        android:lineSpacingExtra="@dimen/footer_nearby_desc_line_spacing"
+        android:text="@string/not_see_right_place"
+        android:textColor="@color/footerNearbyDescColor"
+        android:textSize="@dimen/footer_nearby_desc_text_size"
+        android:textStyle="normal" />
+
+    <com.google.android.material.button.MaterialButton
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/footer_nearby_button_top_margin"
+        android:layout_marginBottom="@dimen/footer_nearby_button_bottom_margin"
+        android:layout_gravity="center_horizontal"
+        android:backgroundTint="@color/colorPrimary"
+        android:textSize="@dimen/footer_nearby_button_text_size"
+        android:fontFamily="sans-serif-medium"
+        android:textStyle="normal"
+        android:textColor="@color/footerNearbyButtonTextColor"
+        android:letterSpacing="0.09"
+        android:lineSpacingExtra="@dimen/footer_nearby_button_text_line_spacing"
+        android:paddingStart="@dimen/footer_nearby_button_start_padding"
+        android:paddingEnd="@dimen/footer_nearby_button_end_padding"
+        app:cornerRadius="@dimen/footer_nearby_button_corner_radius"
+        android:text="@string/find_by_qr"/>
+
+</LinearLayout>

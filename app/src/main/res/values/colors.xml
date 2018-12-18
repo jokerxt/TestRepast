@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200ee</color>
+    <color name="colorPrimaryDark">#f5f5f5</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="recyclerBackgroundColor">#FFFFFF</color>
+    <color name="navBottomBackgroundColor">#6200ee</color>
+    <color name="navBottomIconColor">#FFFFFF</color>
+    <color name="navBottomInactiveColor">#a363ff</color>
+    <color name="footerNearbyDescColor">#99000000</color>
+    <color name="footerNearbyButtonTextColor">#ffffff</color>
+    <color name="headerNearbyTitleColor">#de000000</color>
+</resources>

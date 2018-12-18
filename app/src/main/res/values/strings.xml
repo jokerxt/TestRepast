@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">TestRepast</string>
+    <string name="title_nearby_rests">Обзор</string>
+    <string name="title_favorites">Избранное</string>
+    <string name="title_profile">Профиль</string>
+    <string name="leave_tip">Оставить чаевые</string>
+    <string name="not_see_right_place">Не видите нужное заведение?</string>
+    <string name="find_by_qr">определить по qr</string>
+    <string name="overview">Обзор</string>
+    <string name="near_by_you">Рядом с вами</string>
+    <string name="pleasant_waiters">Нравятся</string>
+    <string name="favorites">Избранное</string>
+    <string name="forever_in_your_heart">Навсегда в Вашем сердце</string>
+</resources>

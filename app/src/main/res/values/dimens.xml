@@ -1,0 +1,20 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="nearby_restaurant_item_corner">4dp</dimen>
+    <dimen name="footer_nearby_desc_top_margin">56dp</dimen>
+    <dimen name="footer_nearby_desc_text_size">12sp</dimen>
+    <dimen name="footer_nearby_desc_line_spacing">4sp</dimen>
+    <dimen name="footer_nearby_button_top_margin">12dp</dimen>
+    <dimen name="footer_nearby_button_bottom_margin">64dp</dimen>
+    <dimen name="footer_nearby_button_text_size">14sp</dimen>
+    <dimen name="footer_nearby_button_text_line_spacing">2sp</dimen>
+    <dimen name="footer_nearby_button_start_padding">16dp</dimen>
+    <dimen name="footer_nearby_button_end_padding">16dp</dimen>
+    <dimen name="footer_nearby_button_corner_radius">4dp</dimen>
+    <dimen name="recycler_nearby_rests_vertical_padding">16dp</dimen>
+    <dimen name="header_nearby_title_text_size">24sp</dimen>
+    <dimen name="header_nearby_subtitle_text_size">12sp</dimen>
+    <dimen name="header_nearby_subtitle_top_margin">4dp</dimen>
+</resources>
